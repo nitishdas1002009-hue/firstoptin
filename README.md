@@ -1,3 +1,3 @@
-# student-Nitshdas
+# Student-Demo
 this is my first git repository
-Author - Nitishdas
+Author - Nitish das
